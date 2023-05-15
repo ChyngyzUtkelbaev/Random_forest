@@ -51,3 +51,5 @@ The results were saved in the "results.xlsx" Excel file.
 Conclusion
 We compared two models: Random Forest and Gradient Boosting. Both models achieved similar performance, with Random Forest having a slightly lower root mean squared error (RMSE). This suggests that both models are robust and can accurately predict sales based on the given attributes.
 For future work, we could explore other machine learning algorithms or fine-tune the hyperparameters of these models to see if we can further improve the model's performance. It would also be interesting to investigate which features are the most important for predicting sales.
+
+![снимок экрана](https://github.com/ChyngyzUtkelbaev/Random_forest/assets/76212719/000149ed-949f-439a-8837-1a610fd7932e)
